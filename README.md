@@ -1,4 +1,7 @@
 #Wolfleader's Password Generator
+
+Feel free to change code and/or tell me what i should change
+
 #TODO:
 *add settings
 *add more chars
